@@ -7,8 +7,8 @@
 
 			embeddedservice_bootstrap.init(
 				'00DWK000000Axek',
-				'MessagingInAppAndWebEmbedded',
-				'https://procoretechnologies--serv2value.sandbox.my.site.com/ESWMessagingInAppAndWebEm1718288070365',
+				'MIAW_for_External_site',
+				'https://procoretechnologies--serv2value.sandbox.my.site.com/ESWMIAWforExternalsite1719222344291',
 				{
 					scrt2URL: 'https://procoretechnologies--serv2value.sandbox.my.salesforce-scrt.com'
 				}
@@ -18,7 +18,8 @@
 		}
 	};
 </script>
-<script type='text/javascript' src='https://procoretechnologies--serv2value.sandbox.my.site.com/ESWMessagingInAppAndWebEm1718288070365/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+<script type='text/javascript' src='https://procoretechnologies--serv2value.sandbox.my.site.com/ESWMIAWforExternalsite1719222344291/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
 </body>
   
 </html>
