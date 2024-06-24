@@ -1,5 +1,5 @@
 <html>
-
+<body>
 <script type='text/javascript'>
 	function initEmbeddedMessaging() {
 		try {
@@ -19,6 +19,6 @@
 	};
 </script>
 <script type='text/javascript' src='https://procoretechnologies--serv2value.sandbox.my.site.com/ESWMessagingInAppAndWebEm1718288070365/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
-
+</body>
   
 </html>
